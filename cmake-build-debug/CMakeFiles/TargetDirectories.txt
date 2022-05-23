@@ -1,0 +1,3 @@
+D:/Documents/Repositórios/DS-BST-EP2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Documents/Repositórios/DS-BST-EP2/cmake-build-debug/CMakeFiles/DS_BST_EP2.dir
+D:/Documents/Repositórios/DS-BST-EP2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
